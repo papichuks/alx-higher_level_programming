@@ -2,4 +2,4 @@
 str = "Holberton School"
 mul = 3 * str
 print(f"{mul}")
-print(f"{str[0:10]}")
+print(f"{str[:9]}")
